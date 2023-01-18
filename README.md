@@ -1,8 +1,10 @@
 # Nanotechnology in Health Care
 ## Nano 
 
+div {
+  box-shadow: 10px 10px lightblue;
 ![nanotech](https://user-images.githubusercontent.com/115462688/212654323-0b7a7871-e192-4d10-bc1b-2fb21dbb8236.jpg)
-
+}
 ## What is Nanotechnology?
 Nanotechnology is the study and application of extremely small things and can be used across a range of industries, including health care. This technology involves the manipulation and fabrication of materials at the nanoscale, which is typically less than 100 nanometers. At this scale, materials can have unique physical, chemical, and biological properties that are not present at larger scales, making them particularly useful in the development of new medical treatments and technologies.
 
