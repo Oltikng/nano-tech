@@ -1,3 +1,23 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.main-content h1,
+.main-content h2 {
+  color: #1e6bb8;
+  font-weight: bold;
+}
+
+.main-content p {
+  text-indent: 3em;
+}
+
+.main-content blockquote p,
+.main-content li p { 
+  text-indent: 0;
+}
+
 body {
   background-color: lightblue;
 }
