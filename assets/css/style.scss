@@ -3,17 +3,20 @@
 
 @import "{{ site.theme }}";
 
+head{
 h1 {
   color: white;
   text-align: center;
 }
+}
 
+body{
 p {
   color: black; 
   font-family: bookman-old;
   font-size: 20px;
 }
-
+}
 div {
   box-shadow: 10px 10px lightblue;
 }
