@@ -3,7 +3,7 @@
 ![nanotech](https://user-images.githubusercontent.com/115462688/212654323-0b7a7871-e192-4d10-bc1b-2fb21dbb8236.jpg)
 
 ## What is Nanotechnology?
-Nanotechnology is the study and application of extremely small objects, and it has applications in a variety of areas, including health care. At the nanoscale, which is typically less than 100 nanometers, materials are modified and created using this technology. This scale allows materials to have special physical, chemical, and biological properties that are not possible at bigger scales, making them particularly helpful in the creation of revolutionary medical procedures and technology.
+Nanotechnology is the study and application of extremely small objects, and it has uses in a variety of areas, including health care. At the nanoscale, which is typically less than 100 nanometers, materials are modified and created using this technology. This scale allows materials to have special physical, chemical, and biological properties that are not possible at bigger scales, making them particularly helpful in the creation of revolutionary medical procedures and technology.
 
 The creation of new drug delivery systems is one potential use of nanotechnology in healthcare. In order to increase the efficiency and lessen the negative effects of the treatment, systems that may target particular cells or tissues within the body might be created using nanoscale materials. Nanoparticles, for instance, can be made to release drugs at particular sites in the body or to react to certain stimuli, such as pH or temperature changes. Drugs can also be made more effective and simpler to administer by using nanoscale materials to increase their stability.
 
