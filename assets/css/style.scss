@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+img {
+  display: block;
+  height: 36px;
+  width: 36px;
+    }
+
 head{
 h1 {
   color: white;
