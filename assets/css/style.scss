@@ -7,7 +7,7 @@
   
     background-image: linear-gradient( to right, #0000FF, #FF0000);
 
-head
+head {
 h1 {
   color: white;
   text-align: center;
@@ -15,15 +15,20 @@ h1 {
 }
 
 body{
-  
-  background-color: light-purple;
-    
+    h2 {
+      color: purple;
+      font-family: Times New Roman;
+  }
 p {
+   background-color: green;
+  opacity: 0.3;
   color: black; 
   font-family: bookman-old;
   font-size: 20px;
 }
   ol{
+     background-color: green;
+  opacity: 0.3;
     color: black;
     font-family: bookman-old;
     font-size: 20px;
