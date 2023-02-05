@@ -34,7 +34,7 @@ The potential benefits of the technology
 
 It is important to carefully consider the potential costs and benefits of implementing nanotechnology in the health care system of Albania in order to determine whether it is a viable and cost-effective option. This may require conducting a detailed cost-benefit analysis to evaluate the potential return on investment for specific nanotechnology-based technologies.
 
-## References
+## Sources
 - [European Nanotechnology Research & Innovation Centre](https://ec.europa.eu/research-and-innovation/en/projects/success-stories/all/nanotechnology?page=2)
 
 - [National Nanotechnology Initiative](https://www.nano.gov/about-nanotechnology/applications-nanotechnology)
