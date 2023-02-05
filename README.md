@@ -6,7 +6,7 @@ Nanotechnology is the study and application of extremely small objects, and it h
 
 The creation of new drug delivery systems is one potential use of nanotechnology in healthcare. In order to increase the efficiency and lessen the negative effects of the treatment, systems that may target particular cells or tissues within the body might be created using nanoscale materials. Nanoparticles, for instance, can be made to release drugs at particular sites in the body or to react to certain stimuli, such as pH or temperature changes. Drugs can also be made more effective and simpler to administer by using nanoscale materials to increase their stability.
 
-![How nanotechnology is implemented into medicaments](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.visualcapitalist.com%2Fthe-future-of-nanotechnology-in-medicine%2F&psig=AOvVaw2ydu2NenI-l-PXk3w5wRi8&ust=1675704229025000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLiy2ury_vwCFQAAAAAdAAAAABAE)
+![Fig 2 ](https://github.com/Oltikng/nano-tech/issues/2#issue-1571535705)
 
 The creation of diagnostic instruments is a further application for nanotechnology in healthcare. Highly sensitive and precise sensors that can identify specific compounds or diseases in the body can be made using nanomaterials. These sensors can be used to monitor the efficacy of treatments as well as rapidly and correctly diagnose diseases like cancer or infectious infections. Additionally, by integrating nanotechnology in MRI, PT, or other imaging systems in the healthcare system, these materials can be used to generate imaging agents that can provide detailed images of the inside of the body, helping doctors to better identify and treat disorders.
 
