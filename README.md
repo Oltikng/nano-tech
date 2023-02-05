@@ -35,13 +35,13 @@ The potential benefits of the technology
 It is important to carefully consider the potential costs and benefits of implementing nanotechnology in the health care system of Albania in order to determine whether it is a viable and cost-effective option. This may require conducting a detailed cost-benefit analysis to evaluate the potential return on investment for specific nanotechnology-based technologies.
 
 ## References
-- ![European Nanotechnology Research & Innovation Centre](https://ec.europa.eu/research-and-innovation/en/projects/success-stories/all/nanotechnology?page=2)
+- [European Nanotechnology Research & Innovation Centre](https://ec.europa.eu/research-and-innovation/en/projects/success-stories/all/nanotechnology?page=2)
 
-- ![National Nanotechnology Initiative](https://www.nano.gov/about-nanotechnology/applications-nanotechnology)
+- [National Nanotechnology Initiative](https://www.nano.gov/about-nanotechnology/applications-nanotechnology)
 
-- ![Online Article](https://www.upm.com/articles/beyond-fossils/22/3d-organs-developed-in-space-and-cells-that-create-energy-the-future-of-health-tech/?utm_source=google&utm_medium=cpc&utm_campaign=contentmarketing&utm_term=HubQ2&utm_content=&gclid=EAIaIQobChMIoPi7tO7-_AIVhO5RCh0uRgmAEAAYASAAEgLOr_D_BwE)
+- [Online Article](https://www.upm.com/articles/beyond-fossils/22/3d-organs-developed-in-space-and-cells-that-create-energy-the-future-of-health-tech/?utm_source=google&utm_medium=cpc&utm_campaign=contentmarketing&utm_term=HubQ2&utm_content=&gclid=EAIaIQobChMIoPi7tO7-_AIVhO5RCh0uRgmAEAAYASAAEgLOr_D_BwE)
 
-- ![Harvard Research Paper](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1501/2013/05/Brochure1.pdf)
+- [Harvard Research Paper](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1501/2013/05/Brochure1.pdf)
 
-- ![Nanotechnology in Albania](https://nanoalb.al/nanoalb/)
+- [Nanotechnology in Albania](https://nanoalb.al/nanoalb/)
 
