@@ -18,22 +18,24 @@ In conclusion, nanotechnology has the ability to completely transform the medica
 ## Implementing this technology in my home country
 Implementing nanotechnology in health care in Albania which is a nation with insecure economies can be challenging due to a lack of resources and infrastructure. However, there are some steps that can be taken to increase the feasibility of implementing nanotechnology in these settings:
 
-1.	Partnerships and collaboration: Forming partnerships with organizations or institutions that have more resources can help to provide the necessary funding and expertise to implement nanotechnology in health care. Collaborating with local organizations and institutions can also help to ensure that the technology is appropriate for the specific needs and context of the community.
-
-2.	Capacity building: Providing training and education to local health care providers and researchers can help to build capacity for implementing and using nanotechnology in health care. This can include training on the use of specific nanotechnology-based technologies, as well as on the ethical considerations and risks associated with their use.
+1.	Partnerships and collaboration: Forming partnerships with organizations or institutions that have more resources can help to provide the necessary funding and expertise to implement nanotechnology in health care. Example partnership with the Ministry of Health of Albania.
+2.	Capacity building: Providing training and education to local health care providers and researchers can help to build capacity for implementing and using nanotechnology in health care.
 3.	Adapting technologies: It may be necessary to adapt existing nanotechnology-based technologies to be more suitable for use in resource-limited settings. This could involve designing technologies that are simpler or more cost-effective, or that can be used with existing infrastructure and equipment.
 4.	Regulating and monitoring use: Establishing regulatory frameworks and systems for monitoring the use of nanotechnology in health care can help to ensure that the technology is being used safely and appropriately. This could include the development of guidelines for the use of specific nanotechnology-based technologies, as well as the creation of systems for reporting and addressing any adverse effects.
-5.	Ensuring access: It is important to ensure that the benefits of nanotechnology in health care are accessible to all members of the community, regardless of their socio-economic status. This could involve providing subsidies or other financial support for the use of these technologies, or implementing policies to ensure that they are available at an affordable cost.
-It is difficult to accurately evaluate the cost of implementing nanotechnology in the health care system of Albania without more information about the specific technologies and interventions being considered, as well as the current state of the health care system in Albania. Some potential factors that could impact the cost of implementing nanotechnology in the health care system of Albania include:
+5.	Ensuring access: It is important to ensure that the benefits of nanotechnology in health care are accessible to all members of the community, regardless of their socio-economic status. 
 
-The type of nanotechnology being implemented: Different nanotechnology-based technologies may have different costs associated with their development, production, and use. For example, some technologies may be more complex or require specialized equipment, which could increase their cost.
+It is difficult to accurately evaluate the cost of implementing nanotechnology in the health care system of Albania without more information about the specific technologies and interventions being considered. Some potential factors that could impact the cost of implementing nanotechnology in the health care system of Albania include:
 
-The scale of implementation: The cost of implementing nanotechnology in the health care system of Albania may depend on the scale of the implementation. For example, implementing a technology in a single hospital may be less expensive than implementing it across the entire country.
-
-The availability of resources: The cost of implementing nanotechnology in the health care system of Albania may also depend on the availability of resources such as funding, trained personnel, and infrastructure. A lack of these resources could increase the cost of implementation.
-
-The potential benefits of the technology: The cost of implementing nanotechnology in the health care system of Albania may be offset by the potential benefits of the technology, such as improved patient outcomes, reduced costs associated with treatment, or increased efficiency in the health care system.
+The type of nanotechnology being implemented
+The scale of implementation
+The availability of resources
+The potential benefits of the technology
 
 It is important to carefully consider the potential costs and benefits of implementing nanotechnology in the health care system of Albania in order to determine whether it is a viable and cost-effective option. This may require conducting a detailed cost-benefit analysis to evaluate the potential return on investment for specific nanotechnology-based technologies.
 
-*Don't forget put some graphics, video and image + shorten information + work more with CSS* -Note to self
+##References
+![European Nanotechnology Research & Innovation Centre](https://ec.europa.eu/research-and-innovation/en/projects/success-stories/all/nanotechnology?page=2)
+![National Nanotechnology Initiative](https://www.nano.gov/about-nanotechnology/applications-nanotechnology)
+![Online Article](https://www.upm.com/articles/beyond-fossils/22/3d-organs-developed-in-space-and-cells-that-create-energy-the-future-of-health-tech/?utm_source=google&utm_medium=cpc&utm_campaign=contentmarketing&utm_term=HubQ2&utm_content=&gclid=EAIaIQobChMIoPi7tO7-_AIVhO5RCh0uRgmAEAAYASAAEgLOr_D_BwE)
+![Harvard Research Paper](https://cdn1.sph.harvard.edu/wp-content/uploads/sites/1501/2013/05/Brochure1.pdf)
+![Nanotechnology in Albania](https://nanoalb.al/nanoalb/)
